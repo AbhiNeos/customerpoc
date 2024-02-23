@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DataCapture name="4-SC-GetProductInfo" continueOnError="false" enabled="true">
+    <DisplayName>4-SC-GetProductInfo</DisplayName>
+    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+    <Capture>
+        <Collect ref="product.id"/>
+        <DataCollector>dc_productid</DataCollector>
+    </Capture>
+    <Capture>
+        <Collect ref="product.price"/>
+        <DataCollector>dc_price</DataCollector>
+    </Capture>
+</DataCapture>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="3-AM-AssingData" version="SHA-512:cbd92358a27deec14502a680e38372fec7f3fff2c44199b9785ef50cadefd8c05ccc83f70b7e8bec61c679b91abad304f402882d957c3fa6c2cc8182767596c7"/>
+        <VersionInfo resourceName="4-SC-GetProductInfo" version="SHA-512:e185623a50c934c63c209a69665429f416c5041206f65e47a17c5593bab034a60e4ef9b15af84abcfe2fd365f68496441e19bb28141690c6c21627212068646f"/>
+        <VersionInfo resourceName="JS-filter" version="SHA-512:1435e7702b4ff4320a8b3eafec710cbe2d9e620bd5684a81b711e00a3566b9a29a2537404f5b972cb78b39fd1173c9fffc17e49ba01cf84b9b45c72f5fdeb3d2"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:a5cc52a382f613bd373cb10bed5428e7f6b6274485cfd974d4ab9a4a91aa71e93f7f152483b5a5078715f9d0137c755e880fe83f92fefdab9af3413526ef13e8"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://JavaScript-1.js" version="SHA-512:21f62423cb6a21ebb9e2f92d80e3fd2576a19ea1249fe0ec37cf28476e88af76a44e096113a91da0cdcb1092bcf4da19475b515c850c6bc3cad7f121c7da88f5"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>

@@ -1,0 +1,25 @@
+{
+  "j.prakash@outlook.com": [
+    {
+      "appFamily": "default",
+      "appId": "ae057a11-8875-4fb9-bfc2-7621ab8be53d",
+      "attributes": [
+        {
+          "name": "DisplayName",
+          "value": "NA-FilterData-App"
+        },
+        {
+          "name": "Notes",
+          "value": ""
+        }
+      ],
+      "callbackUrl": "",
+      "createdAt": 1707457739019,
+      "developerId": "72f37fa3-77ff-4eb6-8347-f5b57b2c33f7",
+      "lastModifiedAt": 1708669974923,
+      "name": "filterData-App",
+      "scopes": [],
+      "status": "approved"
+    }
+  ]
+}

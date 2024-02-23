@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlowBundle revision="1" name="0-SF-TrafficManagement">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1708669867781</CreatedAt>
+    <CreatedBy>j.prakash@outlook.com</CreatedBy>
+    <Description>undefined</Description>
+    <DisplayName>SF_Edge_testing</DisplayName>
+    <LastModifiedAt>1708669867781</LastModifiedAt>
+    <LastModifiedBy>j.prakash@outlook.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:02b9cfb167633b02b306e623f9465b1af5365d853c61fe6e5f32ccb3b13d0b32741679d001a4f88e1fee4af1a2d5cb6fe84d47ec9996a3227f3bef1dd43f25fc:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <Resources/>
+    <Spec></Spec>
+    <subType>SharedFlow</subType>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+</SharedFlowBundle>

@@ -1,0 +1,66 @@
+[
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "NAProxyName1",
+        "value": "encrypted"
+      },
+      {
+        "name": "NAProxyName2",
+        "value": "decrypted"
+      },
+      {
+        "name": "NAProxyName3",
+        "value": "2134567`12"
+      }
+    ],
+    "name": "NAProxyConfig"
+  },
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "NAProxyName1",
+        "value": "500ps"
+      },
+      {
+        "name": "NAProxyName2",
+        "value": "1000ps"
+      }
+    ],
+    "name": "NARuntimeConfig"
+  },
+  {
+    "encrypted": true,
+    "entry": [
+      {
+        "name": "aman",
+        "value": "*****"
+      },
+      {
+        "name": "chauhan",
+        "value": "*****"
+      },
+      {
+        "name": "abhishek",
+        "value": "*****"
+      }
+    ],
+    "name": "NATestCredentials"
+  },
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "username",
+        "value": "abhishek.chauhan@neosalpha.com"
+      },
+      {
+        "name": "password",
+        "value": "test-password"
+      }
+    ],
+    "name": "migratecred"
+  }
+]

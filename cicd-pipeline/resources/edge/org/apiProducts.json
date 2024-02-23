@@ -1,0 +1,46 @@
+[
+  {
+    "apiResources": [],
+    "approvalType": "auto",
+    "attributes": [
+      {
+        "name": "access",
+        "value": "public"
+      }
+    ],
+    "createdAt": 1708668041401,
+    "description": "",
+    "displayName": "NAProductClone-Product",
+    "environments": [
+      "test"
+    ],
+    "lastModifiedAt": 1708671404640,
+    "name": "NAProductClone",
+    "proxies": [
+      "NA-BasicAuth"
+    ],
+    "scopes": []
+  },
+  {
+    "apiResources": [],
+    "approvalType": "auto",
+    "attributes": [
+      {
+        "name": "access",
+        "value": "public"
+      }
+    ],
+    "createdAt": 1707457636350,
+    "description": "",
+    "displayName": "NA-Filterdata-Product",
+    "environments": [
+      "test"
+    ],
+    "lastModifiedAt": 1708671393604,
+    "name": "filterdata-product",
+    "proxies": [
+      "NA-FilterData"
+    ],
+    "scopes": []
+  }
+]

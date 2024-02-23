@@ -1,0 +1,27 @@
+[
+  {
+    "apps": [
+      "filterData-App"
+    ],
+    "companies": [],
+    "email": "j.prakash@outlook.com",
+    "developerId": "72f37fa3-77ff-4eb6-8347-f5b57b2c33f7",
+    "firstName": "Prakash",
+    "lastName": "Jeya Prakash",
+    "userName": "j.prakash@outlook.com",
+    "organizationName": "customerpoc",
+    "status": "active",
+    "attributes": [
+      {
+        "name": "_apiPortal",
+        "value": "{\"status\":\"active\",\"portals\":{\"customerpoc-itravelpartnerportal\":{\"lastVisit\":1496749784},\"customerpoc-testportal\":{\"lastVisit\":1495716690}}}"
+      },
+      {
+        "name": "timeInterval",
+        "value": "1"
+      }
+    ],
+    "createdAt": 1489340333070,
+    "lastModifiedAt": 1496832969775
+  }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="1-BA-Authorization" version="SHA-512:30ceb6e63be552c667ae83b45c53fb6eb57738940e62fa64b2dcb85b56243f68c7c0d6ba69822f4db426bce0745f0c82b46f0949b1c7204f60cfa354d1bee7a0"/>
+        <VersionInfo resourceName="3-KVMO-fetchCredentials" version="SHA-512:4bd18c717246272347f0aa63f06d5b51f83a0586f777d6f515aa6cdfe8f0dc94f822cc2a8b20883fa912b5ff17846b7138cb53cac1ed1fd1c495131e65066c77"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:702903abf59bcd592034acf255db1d07052eca6081b5c6f36291f2ca1c1f7c272bfdd79babaa0b02407407351ca8ca9869d1b1bc24cbaa87eae6979f26a740f7"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:998e06f9d00974f56907004303556babf670152bb691e865c9354b5d5eabcbc951095841d259b30992860a8c8424d9353fa22470cfb91db5e243b6dfd5ff9f2f"/>
+    </TargetEndpoints>
+</Manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="NA-BasicAuth">
+    <Basepaths>/basic-auth</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1708669532188</CreatedAt>
+    <CreatedBy>j.prakash@outlook.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>basic-auth</DisplayName>
+    <LastModifiedAt>1708669532188</LastModifiedAt>
+    <LastModifiedBy>j.prakash@outlook.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:2bcda29357bb510dcf746cc79f2ecd764d4f60d286cbad8a6b56a596d8579be8f4f6702a90f3f898aebd618eda72c8fa176cfc4b91f5efc7c55758583c5d74bc:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>1-BA-Authorization</Policy>
+        <Policy>3-KVMO-fetchCredentials</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

@@ -1,0 +1,17 @@
+{
+  "j.prakash@outlook.com": [
+    {
+      "apiProducts": [
+        "filterdata-product"
+      ],
+      "attributes": [],
+      "consumerKey": "E1BUgQj5fdYowuq90lLBuI8ch66rHYyc",
+      "consumerSecret": "SBcLXSWHTU8AGuLO",
+      "expiresAt": -1,
+      "issuedAt": 1707457739406,
+      "scopes": [],
+      "status": "approved",
+      "name": "filterData-App"
+    }
+  ]
+}

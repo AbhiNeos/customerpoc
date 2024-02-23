@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlowBundle revision="1" name="0-SF-SecurityChecks">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1708669809926</CreatedAt>
+    <CreatedBy>j.prakash@outlook.com</CreatedBy>
+    <Description>undefined</Description>
+    <DisplayName>sf_security_policies</DisplayName>
+    <LastModifiedAt>1708669809926</LastModifiedAt>
+    <LastModifiedBy>j.prakash@outlook.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:5a5b1a2d700cdd14cdd45fb58bac05de6534fbbe3d1c5cd996a937c68e3bdde8f5d7457c852135a4e3ab36003355a740bda5f58b63f0b9902dd1044b973b74dd:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>AC-AllowingUserIP</Policy>
+        <Policy>VAK-VerifyApiKey</Policy>
+    </Policies>
+    <Resources/>
+    <Spec></Spec>
+    <subType>SharedFlow</subType>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+</SharedFlowBundle>
